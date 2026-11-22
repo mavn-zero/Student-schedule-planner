@@ -1,6 +1,0 @@
-build/
-compile_commands.json
-.direnv/
-*.o
-*.exe
-.cache
