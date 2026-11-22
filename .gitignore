@@ -4,4 +4,3 @@ compile_commands.json
 *.o
 *.exe
 .cache
-.gitignore
