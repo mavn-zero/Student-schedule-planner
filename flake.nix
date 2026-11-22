@@ -1,8 +1,8 @@
 {
-  description = "College Timetable Suite (C, C++, Qt 6)";
+  description = "Time Table Scheduler Dev Env(C, C++, Qt 6)";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-26.05";
   };
 
   outputs = {
@@ -15,7 +15,7 @@
     devShells.${system}.default = pkgs.mkShell {
       packages = with pkgs; [
         clang
-        clang-tools # Provides clangd for Neovim LSP
+        clang-tools
         cmake
         gnumake
         pkg-config
