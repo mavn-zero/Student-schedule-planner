@@ -1,0 +1,14 @@
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/conflict_check.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/timetable_backend.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/timetable_formatter.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/timetable_gui.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/edit_cache.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/rebuild_cache.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/conflict_check_autogen_timestamp_deps.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/conflict_check_autogen.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/timetable_backend_autogen_timestamp_deps.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/timetable_backend_autogen.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/timetable_formatter_autogen_timestamp_deps.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/timetable_formatter_autogen.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/timetable_gui_autogen_timestamp_deps.dir
+/home/mavn/Downloads/TimetableScheduler/build/CMakeFiles/timetable_gui_autogen.dir

@@ -1,0 +1,21 @@
+SubjectID,SubjectName,SectionName,FacultyName,SessionsPerWeek,RoomTypeRequired
+SUB01,Programming,CSE-A,Dr Mehta,3,Classroom
+SUB02,Mathematics,CSE-A,Ms Sharma,3,Classroom
+SUB03,Programming Lab,CSE-A,Mr Joshi,2,Lab
+SUB04,Communication Skills,CSE-A,Ms Kapoor,2,Classroom
+SUB05,Introduction to AI,CSE-A,Mr Verma,2,Classroom
+SUB06,Programming,CSE-B,Dr Mehta,3,Classroom
+SUB07,Mathematics,CSE-B,Ms Sharma,3,Classroom
+SUB08,Computer Lab,CSE-B,Mr Joshi,2,Lab
+SUB09,Communication Skills,CSE-B,Ms Kapoor,2,Classroom
+SUB10,Digital Systems,CSE-B,Dr Rao,2,Classroom
+SUB11,Introduction to AI,AIML-A,Mr Verma,3,Classroom
+SUB12,Programming,AIML-A,Dr Mehta,3,Classroom
+SUB13,Mathematics,AIML-A,Ms Sharma,3,Classroom
+SUB14,AI Lab,AIML-A,Mr Joshi,2,Lab
+SUB15,Communication Skills,AIML-A,Ms Kapoor,2,Classroom
+SUB16,Introduction to AI,AIML-B,Mr Verma,3,Classroom
+SUB17,Programming,AIML-B,Dr Mehta,3,Classroom
+SUB18,Mathematics,AIML-B,Ms Sharma,3,Classroom
+SUB19,Machine Learning Lab,AIML-B,Mr Joshi,2,Lab
+SUB20,Digital Systems,AIML-B,Dr Rao,2,Classroom

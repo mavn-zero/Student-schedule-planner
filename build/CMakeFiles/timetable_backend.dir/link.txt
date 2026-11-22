@@ -1,0 +1,1 @@
+/nix/store/xjvnndnlp58385j5wvb55xzfyvh8zdmp-clang-wrapper-21.1.8/bin/clang++ -Xlinker --dependency-file=CMakeFiles/timetable_backend.dir/link.d CMakeFiles/timetable_backend.dir/timetable_backend_autogen/mocs_compilation.cpp.o CMakeFiles/timetable_backend.dir/src/main.cpp.o -o timetable_backend

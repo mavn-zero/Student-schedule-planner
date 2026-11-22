@@ -1,0 +1,1 @@
+/nix/store/xjvnndnlp58385j5wvb55xzfyvh8zdmp-clang-wrapper-21.1.8/bin/clang++ -Xlinker --dependency-file=CMakeFiles/conflict_check.dir/link.d CMakeFiles/conflict_check.dir/conflict_check_autogen/mocs_compilation.cpp.o CMakeFiles/conflict_check.dir/src/conflict_check.c.o -o conflict_check

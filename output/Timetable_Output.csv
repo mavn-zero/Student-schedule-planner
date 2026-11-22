@@ -1,0 +1,51 @@
+Day,Start,End,Section,Subject,Faculty,Room,Period
+Monday,08:00,08:55,CSE-A,Programming,Dr Mehta,CR-1,1
+Monday,09:00,09:55,CSE-A,Programming,Dr Mehta,CR-1,2
+Monday,10:10,11:05,CSE-A,Programming,Dr Mehta,CR-1,3
+Monday,11:10,12:05,CSE-A,Mathematics,Ms Sharma,CR-1,4
+Monday,12:10,13:00,CSE-A,Mathematics,Ms Sharma,CR-1,5
+Monday,14:00,14:55,CSE-A,Mathematics,Ms Sharma,CR-1,6
+Tuesday,08:00,08:55,CSE-A,Programming Lab,Mr Joshi,Lab-1,1
+Tuesday,09:00,09:55,CSE-A,Programming Lab,Mr Joshi,Lab-1,2
+Tuesday,10:10,11:05,CSE-A,Communication Skills,Ms Kapoor,CR-1,3
+Tuesday,11:10,12:05,CSE-A,Communication Skills,Ms Kapoor,CR-1,4
+Tuesday,12:10,13:00,CSE-A,Introduction to AI,Mr Verma,CR-1,5
+Tuesday,14:00,14:55,CSE-A,Introduction to AI,Mr Verma,CR-1,6
+Monday,11:10,12:05,CSE-B,Programming,Dr Mehta,CR-2,4
+Monday,12:10,13:00,CSE-B,Programming,Dr Mehta,CR-2,5
+Monday,14:00,14:55,CSE-B,Programming,Dr Mehta,CR-2,6
+Monday,08:00,08:55,CSE-B,Mathematics,Ms Sharma,CR-2,1
+Monday,09:00,09:55,CSE-B,Mathematics,Ms Sharma,CR-2,2
+Monday,10:10,11:05,CSE-B,Mathematics,Ms Sharma,CR-2,3
+Tuesday,10:10,11:05,CSE-B,Computer Lab,Mr Joshi,Lab-1,3
+Tuesday,11:10,12:05,CSE-B,Computer Lab,Mr Joshi,Lab-1,4
+Tuesday,08:00,08:55,CSE-B,Communication Skills,Ms Kapoor,CR-1,1
+Tuesday,09:00,09:55,CSE-B,Communication Skills,Ms Kapoor,CR-1,2
+Tuesday,12:10,13:00,CSE-B,Digital Systems,Dr Rao,CR-2,5
+Tuesday,14:00,14:55,CSE-B,Digital Systems,Dr Rao,CR-2,6
+Monday,08:00,08:55,AIML-A,Introduction to AI,Mr Verma,CR-3,1
+Monday,09:00,09:55,AIML-A,Introduction to AI,Mr Verma,CR-3,2
+Monday,10:10,11:05,AIML-A,Introduction to AI,Mr Verma,CR-3,3
+Tuesday,08:00,08:55,AIML-A,Programming,Dr Mehta,CR-2,1
+Tuesday,09:00,09:55,AIML-A,Programming,Dr Mehta,CR-2,2
+Tuesday,10:10,11:05,AIML-A,Programming,Dr Mehta,CR-2,3
+Tuesday,11:10,12:05,AIML-A,Mathematics,Ms Sharma,CR-2,4
+Tuesday,12:10,13:00,AIML-A,Mathematics,Ms Sharma,CR-3,5
+Tuesday,14:00,14:55,AIML-A,Mathematics,Ms Sharma,CR-3,6
+Monday,11:10,12:05,AIML-A,AI Lab,Mr Joshi,Lab-1,4
+Monday,12:10,13:00,AIML-A,AI Lab,Mr Joshi,Lab-1,5
+Monday,14:00,14:55,AIML-A,Communication Skills,Ms Kapoor,CR-3,6
+Wednesday,08:00,08:55,AIML-A,Communication Skills,Ms Kapoor,CR-1,1
+Monday,11:10,12:05,AIML-B,Introduction to AI,Mr Verma,CR-3,4
+Monday,12:10,13:00,AIML-B,Introduction to AI,Mr Verma,CR-3,5
+Tuesday,08:00,08:55,AIML-B,Introduction to AI,Mr Verma,CR-3,1
+Tuesday,11:10,12:05,AIML-B,Programming,Dr Mehta,CR-3,4
+Wednesday,08:00,08:55,AIML-B,Programming,Dr Mehta,CR-2,1
+Wednesday,09:00,09:55,AIML-B,Programming,Dr Mehta,CR-1,2
+Tuesday,09:00,09:55,AIML-B,Mathematics,Ms Sharma,CR-3,2
+Tuesday,10:10,11:05,AIML-B,Mathematics,Ms Sharma,CR-3,3
+Wednesday,10:10,11:05,AIML-B,Mathematics,Ms Sharma,CR-1,3
+Monday,08:00,08:55,AIML-B,Machine Learning Lab,Mr Joshi,Lab-1,1
+Monday,09:00,09:55,AIML-B,Machine Learning Lab,Mr Joshi,Lab-1,2
+Wednesday,11:10,12:05,AIML-B,Digital Systems,Dr Rao,CR-1,4
+Wednesday,12:10,13:00,AIML-B,Digital Systems,Dr Rao,CR-1,5

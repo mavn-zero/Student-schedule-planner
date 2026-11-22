@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<title>College Timetable</title>
+
+<style>
+
+@page {
+    size: A3 landscape;
+    margin: 8mm;
+}
+
+body {
+    font-family: "Times New Roman", serif;
+    color: black;
+    background: white;
+    margin: 10px;
+}
+
+h2, h3, p {
+    text-align: center;
+    margin: 3px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+    margin-top: 8px;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    padding: 4px;
+    overflow-wrap: anywhere;
+    font-size: 11px;
+}
+
+th {
+    font-weight: bold;
+}
+
+.day {
+    width: 6%;
+    font-weight: bold;
+}
+
+thead th {
+    height: 35px;
+}
+
+tbody td {
+    height: 65px;
+}
+
+.heading {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.subheading {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.class-code {
+    font-weight: bold;
+}
+
+.subject-table {
+    width: 85%;
+    margin: 15px auto;
+}
+
+.subject-table th,
+.subject-table td {
+    text-align: left;
+    padding: 4px 6px;
+    font-size: 11px;
+}
+
+.subject-table th:first-child {
+    width: 18%;
+}
+
+.subject-table th:nth-child(2) {
+    width: 52%;
+}
+
+.subject-table th:nth-child(3) {
+    width: 30%;
+}
+
+@media print {
+    body {
+        margin: 0;
+    }
+
+    table {
+        page-break-inside: avoid;
+    }
+}
+
+</style>
+</head>
+
+<body>
+<h2>GRAPHIC ERA DEEMED TO BE UNIVERSITY</h2><h3 class='heading'>TIME TABLE OF B.TECH. III SEMESTER - COMPUTER SCIENCE &amp; ENGINEERING (Section: CSE-B)</h3><h3>ACADEMIC YEAR 2026-27</h3><p class='subheading'>W.E.F: 13 July 2026</p><table><thead><tr><th class='day'>DAY</th><th>08:00-08:55</th><th>09:00-09:55</th><th>10:10-11:05</th><th>11:10-12:05</th><th>12:10-13:00</th><th>14:00-14:55</th></tr></thead><tbody><tr><td class='day'>Mon</td><td><span class='class-code'>SUB07</span><br>Mathematics<br>Ms Sharma<br>CR-2</td><td><span class='class-code'>SUB07</span><br>Mathematics<br>Ms Sharma<br>CR-2</td><td><span class='class-code'>SUB07</span><br>Mathematics<br>Ms Sharma<br>CR-2</td><td><span class='class-code'>SUB06</span><br>Programming<br>Dr Mehta<br>CR-2</td><td><span class='class-code'>SUB06</span><br>Programming<br>Dr Mehta<br>CR-2</td><td><span class='class-code'>SUB06</span><br>Programming<br>Dr Mehta<br>CR-2</td></tr><tr><td class='day'>Tue</td><td><span class='class-code'>SUB09</span><br>Communication Skills<br>Ms Kapoor<br>CR-1</td><td><span class='class-code'>SUB09</span><br>Communication Skills<br>Ms Kapoor<br>CR-1</td><td><span class='class-code'>SUB08</span><br>Computer Lab<br>Mr Joshi<br>Lab-1</td><td><span class='class-code'>SUB08</span><br>Computer Lab<br>Mr Joshi<br>Lab-1</td><td><span class='class-code'>SUB10</span><br>Digital Systems<br>Dr Rao<br>CR-2</td><td><span class='class-code'>SUB10</span><br>Digital Systems<br>Dr Rao<br>CR-2</td></tr><tr><td class='day'>Wed</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class='day'>Thu</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class='day'>Fri</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td class='day'>Sat</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><table class='subject-table'><thead><tr><th>Subject Code</th><th>Subject Name</th><th>Faculty</th></tr></thead><tbody><tr><td>SUB06</td><td>Programming</td><td>Dr Mehta</td></tr><tr><td>SUB07</td><td>Mathematics</td><td>Ms Sharma</td></tr><tr><td>SUB08</td><td>Computer Lab</td><td>Mr Joshi</td></tr><tr><td>SUB09</td><td>Communication Skills</td><td>Ms Kapoor</td></tr><tr><td>SUB10</td><td>Digital Systems</td><td>Dr Rao</td></tr></tbody></table><p style='margin-top:8px;font-size:10px'>Generated College Timetable</p></body></html>

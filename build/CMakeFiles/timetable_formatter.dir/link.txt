@@ -1,0 +1,1 @@
+/nix/store/xjvnndnlp58385j5wvb55xzfyvh8zdmp-clang-wrapper-21.1.8/bin/clang++ -Xlinker --dependency-file=CMakeFiles/timetable_formatter.dir/link.d CMakeFiles/timetable_formatter.dir/timetable_formatter_autogen/mocs_compilation.cpp.o CMakeFiles/timetable_formatter.dir/src/timetable_formatter.cpp.o -o timetable_formatter

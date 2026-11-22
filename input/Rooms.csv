@@ -1,0 +1,7 @@
+RoomID,RoomName,RoomType,Capacity
+R01,CR-1,Classroom,70
+R02,CR-2,Classroom,60
+R03,CR-3,Classroom,55
+R04,Lab-1,Lab,60
+R05,Lab-2,Lab,50
+R06,LT-1,Lecture Theatre,120
